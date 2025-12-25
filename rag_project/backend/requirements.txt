@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+numpy
+scikit-learn
+chromadb
+sentence-transformers
+pypdf
+pdfplumber
