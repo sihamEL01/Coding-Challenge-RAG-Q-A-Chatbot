@@ -214,4 +214,3 @@ This ensures factual and explainable answers.
 AI / Data Engineering Student
 Quorium Coding Challenge – 2025
 
-```
